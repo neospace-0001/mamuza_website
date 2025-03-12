@@ -73,21 +73,21 @@ const carouselItems = ref([
   {
     image: "../src/assets/media/hero.jpg",
     alt: "Image 1",
-    title: "Item 1 Title",
+    title: "EdTech",
     description:
       "Item 1 Description: This is some example text for the first carousel item.",
   },
   {
     image: "../src/assets/media/hero1.jpg",
     alt: "Image 2",
-    title: "Item 2 Title",
+    title: "Software",
     description:
       "Item 2 Description: This is some example text for the second carousel item.",
   },
   {
     image: "../src/assets/media/hero2.jpg",
     alt: "Image 3",
-    title: "Item 3 Title",
+    title: "engineering",
     description:
       "Item 3 Description: This is some example text for the third carousel item.",
   },
