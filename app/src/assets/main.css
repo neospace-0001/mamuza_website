@@ -1,4 +1,11 @@
 
 @import "tailwindcss";
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+    
+
+
+@theme {
+    --color-orange:#ff5722
+}
 
 
